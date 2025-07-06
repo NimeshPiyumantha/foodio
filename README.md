@@ -18,7 +18,7 @@
 ## Instructions to Run the Project
 1. **Clone the repository:**
    ```sh
-   git clone <your-repo-url>
+   git clone https://github.com/NimeshPiyumantha/foodio.git
    cd foodio
    ```
 2. **Install dependencies:**
